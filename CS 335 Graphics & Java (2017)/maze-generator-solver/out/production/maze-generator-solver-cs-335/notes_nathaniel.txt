@@ -1,0 +1,27 @@
+generate maze (grid, visited):
+   N = grid[0,0]
+   queue = linked list () empty
+   while (keepgoing):
+        queue.push(N)
+        visited[n.x, n.y]
+        stepwise refinement
+        neighbors = getPossibleNeighs(N, visited)
+            ->>>> if (i+1) <= height -1 ...
+        if neighbors.isEmpty():
+            while queue.isEmpty() == false:
+                 temp = queue.pop()
+                 neighbors = getPossibleNeighbors(temp, visited)
+                 if neighbors.isEmpty() == false:
+                        N = temp
+                        break
+                 if temp = null:
+                           keepgoing false
+                        break
+        A = neighbors[randInt(neighbors.size()  // randInt(5) = [0,1,2,3,4] Random rand = new Rnadom(); rand.nextInt(array size)
+
+        break wall(N,A)
+        N = A
+
+
+
+

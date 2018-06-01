@@ -1,0 +1,3 @@
+Server file.
+
+This is meant to be tested with cget.

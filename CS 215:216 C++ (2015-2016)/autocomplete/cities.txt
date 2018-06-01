@@ -1,0 +1,988 @@
+      14608512	Shanghai, China
+       2587183	Mogadishu, Somalia
+       1445632	Phoenix, Arizona, United States
+       1148665	Port Harcourt, Nigeria
+        889675	Pingdingshan, China
+        729137	Athens, Greece
+        625138	Bhilai, India
+        555230	Huaiyin, China
+        490175	Aracaju, Brazil
+        441876	Dasmariñas, Philippines
+        404109	Hsinchu, Taiwan
+        366980	Dhule, India
+        340360	Chitungwiza, Zimbabwe
+        317190	Berlin Wilmersdorf, Germany
+        296943	Cincinnati, Ohio, United States
+        276964	Cuenca, Ecuador
+        256936	Chimoio, Mozambique
+        244662	Hebi, China
+        230006	Nukus, Uzbekistan
+        220029	Mirzāpur, India
+        208598	Kielce, Poland
+        199613	Tilburg, Netherlands
+        191403	Barrancabermeja, Colombia
+        182901	Mitaka-shi, Japan
+        175341	Siverek, Turkey
+        167664	Hollywood, California, United States
+        161719	Tempe, Arizona, United States
+        154803	Antioch, Turkey
+        150448	Huangyan, China
+        145292	Tabora, Tanzania
+        140223	Lakhīmpur, India
+        135404	Buguma, Nigeria
+        131016	Lashio, Myanmar
+        128095	Ramat Gan, Israel
+        124924	Suining, China
+        121631	Bern, Switzerland
+        118022	Morbi, India
+        114783	Botoşani, Romania
+        111476	Cileunyi, Indonesia
+        108600	Dharān Bāzār, Nepal
+        106098	West Covina, California, United States
+        103401	Isehara, Japan
+        101092	Tartu, Estonia
+         99307	Saint-Paul, Reunion
+         97369	Amalner, India
+         95251	Catanzaro, Italy
+         93238	Bath, United Kingdom
+         91424	Leeuwarden, Netherlands
+         89648	Beni, Democratic Republic of the Congo
+         88082	Reading, Pennsylvania, United States
+         86525	Al Farwānīyah, Kuwait
+         84789	Mādārīpur, Bangladesh
+         83202	Jönköping, Sweden
+         81870	Itajubá, Brazil
+         80447	Udhampur, India
+         79016	Netrakona, Bangladesh
+         77486	Kars, Turkey
+         76387	Yangliuqing, China
+         75371	Kendall, Florida, United States
+         73995	Inuyama, Japan
+         72848	Paranavaí, Brazil
+         71531	Khanabad, Afghanistan
+         70572	Sankt Gallen, Switzerland
+         69535	Linares, Chile
+         68405	Vaciamadrid, Spain
+         67599	Toukh, Egypt
+         66541	Shabqadar, Pakistan
+         65603	Babu, China
+         64731	Khatauli, India
+         63770	Cao Lãnh, Vietnam
+         62970	Ichinoseki, Japan
+         62104	Ina, Japan
+         61376	Teoloyucan, México, Mexico
+         60512	Homestead, Florida, United States
+         59730	Rüsselsheim, Germany
+         58957	Santa Rosa, Brazil
+         58168	Los Dos Caminos, Venezuela
+         57408	Trà Vinh, Vietnam
+         56765	Vacaria, Brazil
+         56016	Roeselare, Belgium
+         55313	Fountain Valley, California, United States
+         54629	Berlin Tempelhof, Germany
+         53808	Danané, Cote d'Ivoire
+         53103	Miryang, South Korea
+         52415	Charleville-Mézières, France
+         51718	Bisceglie, Italy
+         51000	Kŭrdzhali, Bulgaria
+         50334	Nkoteng, Cameroon
+         49792	Rivoli, Italy
+         49072	Kleve, Germany
+         48452	Palm Beach Gardens, Florida, United States
+         47889	Guaxupé, Brazil
+         47419	Serowe, Botswana
+         46918	Gujō, Japan
+         46245	Menzel Bourguiba, Tunisia
+         45631	Komotiní, Greece
+         44971	Itānagar, India
+         44461	Koesan, South Korea
+         43936	Považská Bystrica, Slovakia
+         43483	Moline, Illinois, United States
+         42904	Kilmarnock, United Kingdom
+         42410	Alès, France
+         41912	Lindi, Tanzania
+         41425	Yaţţah, Palestinian Territory
+         41062	Al Quşayr, Syria
+         40604	Guimarães, Portugal
+         40134	Jarosław, Poland
+         39757	Huaquillas, Ecuador
+         39368	Antigua Guatemala, Guatemala
+         38914	Tønsberg, Norway
+         38538	Phrae, Thailand
+         38095	Tomelloso, Spain
+         37690	Dubno, Ukraine
+         37299	Noveleta, Philippines
+         36895	Saronno, Italy
+         36503	Herstal, Belgium
+         36121	Plaisir, France
+         35761	Victoria Falls, Zimbabwe
+         35431	Lūnāvāda, India
+         35109	Tangkak, Malaysia
+         34768	Marion, Iowa, United States
+         34463	Wernigerode, Germany
+         34190	Butte, Montana, United States
+         33851	Guledagudda, India
+         33540	Mulleriyawa, Sri Lanka
+         33263	Nirasaki, Japan
+         32990	Pápa, Hungary
+         32667	Ceará Mirim, Brazil
+         32354	San Donato Milanese, Italy
+         32038	Puerto Iguazú, Argentina
+         31772	Kreuztal, Germany
+         31430	Lismore, New South Wales, Australia
+         31127	Travnik, Bosnia and Herzegovina
+         30841	Khārān, Pakistan
+         30525	Karamürsel, Turkey
+         30255	Termoli, Italy
+         30000	Las Animas, Chile
+         29782	Puerto Asís, Colombia
+         29524	New Bern, North Carolina, United States
+         29316	Jewar, India
+         29070	Tarui, Japan
+         28846	Kelaniya, Sri Lanka
+         28547	Addanki, India
+         28310	Mohale’s Hoek, Lesotho
+         28093	Empangeni, South Africa
+         27864	Hiji, Japan
+         27673	Prokuplje, Serbia
+         27440	Selargius, Italy
+         27158	Bidhūna, India
+         26960	Siliana, Tunisia
+         26701	Kyrenia, Cyprus
+         26514	Pauri, India
+         26338	Kongoussi, Burkina Faso
+         26138	Marhaura, India
+         25907	Vrbas, Serbia
+         25730	Carini, Italy
+         25540	West Whittier-Los Nietos, California, United States
+         25304	Sulmona, Italy
+         25103	Buritizeiro, Brazil
+         24948	Kunda, India
+         24756	Ponneri, India
+         24560	Nagcarlan, Philippines
+         24385	Gradignan, France
+         24201	Wallenhorst, Germany
+         24030	Žďár nad Sázavou, Czech Republic
+         23829	Montfermeil, France
+         23651	Desenzano del Garda, Italy
+         23499	Jhinjhak, India
+         23304	Tamboril, Dominican Republic
+         23131	Sasel, Germany
+         22982	Bavly, Russia
+         22806	Tekax de Álvaro Obregón, Yucatán, Mexico
+         22654	Saiha, India
+         22510	Muchamiel, Spain
+         22355	Wülfrath, Germany
+         22158	Derby, Kansas, United States
+         22005	Araçuaí, Brazil
+         21855	Esparreguera, Spain
+         21712	Hamina, Finland
+         21552	Allison Park, Pennsylvania, United States
+         21387	Kitzingen, Germany
+         21240	Amposta, Spain
+         21064	Porto Torres, Italy
+         20908	Dailekh, Nepal
+         20766	Los Llanos de Aridane, Spain
+         20627	Carepa, Colombia
+         20473	Laranjeiro, Portugal
+         20325	Akkarampalle, India
+         20199	Geyve, Turkey
+         20072	Pedra Branca, Brazil
+         19968	Glace Bay, Nova Scotia, Canada
+         19852	Evergreen Park, Illinois, United States
+         19713	Petrovsk-Zabaykal’skiy, Russia
+         19570	Montclair, Virginia, United States
+         19441	Ochtrup, Germany
+         19315	Kalynivka, Ukraine
+         19191	Shelbyville, Indiana, United States
+         19084	Brezina, Algeria
+         18947	North Druid Hills, Georgia, United States
+         18830	Lutugino, Ukraine
+         18704	Patzún, Guatemala
+         18588	Szamotuły, Poland
+         18465	Luau, Angola
+         18352	Nzeto, Angola
+         18241	Nidda, Germany
+         18136	El Copey, Colombia
+         18003	Druten, Netherlands
+         17887	Wittlich, Germany
+         17776	Obock, Djibouti
+         17665	Barra Velha, Brazil
+         17547	Nederland, Texas, United States
+         17437	Barreirinhas, Brazil
+         17332	Polyarnyy, Russia
+         17230	Heilbad Heiligenstadt, Germany
+         17115	Naarden, Netherlands
+         16982	Sacramento, Brazil
+         16877	Kutiyāna, India
+         16760	North Aurora, Illinois, United States
+         16653	Camoapa, Nicaragua
+         16552	L'Eliana, Spain
+         16434	Camaná, Peru
+         16332	Carmo do Cajuru, Brazil
+         16226	Bry-sur-Marne, France
+         16131	Anaimalai, India
+         16041	Nikkō, Japan
+         15946	Kingsland, Georgia, United States
+         15856	Durant, Oklahoma, United States
+         15738	Bílina, Czech Republic
+         15646	Novyy Buh, Ukraine
+         15541	Beacon, New York, United States
+         15442	Ado Odo, Nigeria
+         15335	Chepo, Panama
+         15253	Rîşnov, Romania
+         15172	Yorkton, Saskatchewan, Canada
+         15073	Mandapam, India
+         15000	Matane, Quebec, Canada
+         14891	Mariestad, Sweden
+         14809	Santo Tomás, Nicaragua
+         14723	Néa Mákri, Greece
+         14639	Gouré, Niger
+         14545	Ndungu, Tanzania
+         14454	North Branford, Connecticut, United States
+         14373	Thérmi, Greece
+         14274	Ampére, Brazil
+         14206	Mountain Home, Idaho, United States
+         14137	Wennigsen, Germany
+         14046	Çorovodë, Albania
+         13965	Anapskaya, Russia
+         13893	Ziro, India
+         13809	Miami Springs, Florida, United States
+         13732	Pont-Sainte-Maxence, France
+         13646	Tikri, India
+         13573	Pagsañgahan, Philippines
+         13500	Twello, Netherlands
+         13430	Vieste, Italy
+         13352	Discovery Bay, California, United States
+         13265	Crowley, Louisiana, United States
+         13184	Bouc-Bel-Air, France
+         13116	New Kensington, Pennsylvania, United States
+         13055	Vikāsnagar, India
+         12966	Kirchhundem, Germany
+         12898	Vrchlabí, Czech Republic
+         12825	Kota Belud, Malaysia
+         12741	Finneytown, Ohio, United States
+         12676	Koror Town, Palau
+         12606	Bopfingen, Germany
+         12525	Hansot, India
+         12466	Spaichingen, Germany
+         12401	Conceição do Rio Verde, Brazil
+         12343	Nova Olinda do Norte, Brazil
+         12281	Peñal, Trinidad and Tobago
+         12211	Liliāni, Pakistan
+         12121	Glückstadt, Germany
+         12055	Saurikh, India
+         11989	Dolinsk, Russia
+         11930	Victoria Point, Queensland, Australia
+         11867	Qutqashen, Azerbaijan
+         11805	Kayakent, Russia
+         11733	Shubarkuduk, Kazakhstan
+         11676	Trostberg an der Alz, Germany
+         11599	Linkenheim-Hochstetten, Germany
+         11550	Bridgeton, Missouri, United States
+         11497	Pão de Açúcar, Brazil
+         11445	Lousã, Portugal
+         11391	Hurstpierpoint, United Kingdom
+         11333	Urzhum, Russia
+         11271	Palu, Turkey
+         11216	Grovetown, Georgia, United States
+         11158	Starokamyshinsk, Russia
+         11100	Bisenda Buzurg, India
+         11050	Havran, Turkey
+         10994	Międzychód, Poland
+         10938	Woodinville, Washington, United States
+         10874	Stropkov, Slovakia
+         10815	Murghob, Tajikistan
+         10756	Spa, Belgium
+         10693	Pakil, Philippines
+         10637	Calonge, Spain
+         10592	Junín de los Andes, Argentina
+         10534	Almafuerte, Argentina
+         10471	Boerne, Texas, United States
+         10407	Calimaya de Díaz González, México, Mexico
+         10364	Villa Literno, Italy
+         10304	Varėna, Lithuania
+         10243	Timberlane, Louisiana, United States
+         10197	Sedriano, Italy
+         10150	Oakham, United Kingdom
+         10104	Siano, Italy
+         10058	Rehau, Germany
+         10015	Villa Carcina, Italy
+          9981	Manaquiri, Brazil
+          9921	Rüdesheim am Rhein, Germany
+          9869	Homocea, Romania
+          9818	East Rockaway, New York, United States
+          9759	Bernex, Switzerland
+          9708	Clay, Alabama, United States
+          9646	Romodanovo, Russia
+          9593	Svedala, Sweden
+          9548	Cerro Largo, Brazil
+          9506	Chambly, France
+          9460	Сопиште, Macedonia
+          9412	Chassieu, France
+          9358	Upi, Philippines
+          9310	Vásárosnamény, Hungary
+          9263	Markt Indersdorf, Germany
+          9211	Skhira, Tunisia
+          9165	Halachó, Yucatán, Mexico
+          9119	Borskoye, Russia
+          9078	Ayr, Queensland, Australia
+          9032	Hünenberg, Switzerland
+          8998	Oromocto, New Brunswick, Canada
+          8955	Lev Tolstoy, Russia
+          8913	East Rutherford, New Jersey, United States
+          8865	Calixtlahuaca, México, Mexico
+          8817	Velden am Wörthersee, Austria
+          8774	Lutry, Switzerland
+          8727	Elsenfeld, Germany
+          8678	Altdorf, Switzerland
+          8627	Hemau, Germany
+          8592	Alondra Park, California, United States
+          8547	North Madison, Ohio, United States
+          8505	Monson, Massachusetts, United States
+          8465	Jerseyville, Illinois, United States
+          8421	Charlestown, Rhode Island, United States
+          8381	São Bartolomeu de Messines, Portugal
+          8338	Lewistown, Pennsylvania, United States
+          8299	Paulsstadt, Germany
+          8259	Clusone, Italy
+          8225	Sibul, Philippines
+          8188	Sakhnovshchyna, Ukraine
+          8141	Lengenfeld, Germany
+          8101	Due Carrare, Italy
+          8056	Heikendorf, Germany
+          8017	Marstons Mills, Massachusetts, United States
+          7981	Bamora, India
+          7943	Valpovo, Croatia
+          7906	Kintinku, Tanzania
+          7872	Freshwater, New South Wales, Australia
+          7835	Ayutla, Jalisco, Mexico
+          7804	Stiens, Netherlands
+          7771	Minuyan, Philippines
+          7731	Roghun, Tajikistan
+          7696	Meta, Italy
+          7660	Saint-Pierre-du-Mont, France
+          7623	Sursk, Russia
+          7592	Vernole, Italy
+          7558	Hillcrest, New York, United States
+          7520	Arroyo, Puerto Rico
+          7492	Iver, United Kingdom
+          7460	Tacotalpa, Tabasco, Mexico
+          7419	Independent Hill, Virginia, United States
+          7390	Tenares, Dominican Republic
+          7353	Barcelos, Brazil
+          7323	Laughlin, Nevada, United States
+          7295	New London, Wisconsin, United States
+          7259	Măieru, Romania
+          7229	Clarkston, Washington, United States
+          7194	Ömerli, Turkey
+          7160	Nový Bydžov, Czech Republic
+          7130	Atotonilquillo, Jalisco, Mexico
+          7096	Selizharovo, Russia
+          7065	Monteforte d'Alpone, Italy
+          7037	Kīevka, Kazakhstan
+          7003	Poyarkovo, Russia
+          6974	Mount Colah, New South Wales, Australia
+          6947	Afonso Bezerra, Brazil
+          6917	Starobesheve, Ukraine
+          6885	Psygansu, Russia
+          6857	Gogāpur, India
+          6826	Rathdrum, Idaho, United States
+          6798	Nevada, Iowa, United States
+          6769	Cabiate, Italy
+          6737	Oraşu Nou, Romania
+          6702	Wallersdorf, Germany
+          6672	Altamirano, Chiapas, Mexico
+          6642	Staranzano, Italy
+          6610	Muro, Spain
+          6582	Domusnovas, Italy
+          6556	Borca, Romania
+          6522	Wharton, New Jersey, United States
+          6494	Żukowo, Poland
+          6466	Tyube, Russia
+          6441	Belpre, Ohio, United States
+          6415	Remedios, Colombia
+          6388	Ballinasloe, Ireland
+          6357	Trith-Saint-Léger, France
+          6330	Tamaşi, Romania
+          6303	Oakmont, Pennsylvania, United States
+          6276	Oyón, Peru
+          6245	Stotfold, United Kingdom
+          6219	Mutsalaul, Russia
+          6193	Esperanza, Philippines
+          6162	Escalquens, France
+          6138	Hammel, Denmark
+          6116	Cavenago di Brianza, Italy
+          6091	Ghanaur, India
+          6069	Zhirnov, Russia
+          6043	Hillandale, Maryland, United States
+          6015	Chelno-Vershiny, Russia
+          5991	Sauerlach, Germany
+          5967	Marnate, Italy
+          5942	Dömsöd, Hungary
+          5918	Walpole, Massachusetts, United States
+          5889	Alt-Sanitz, Germany
+          5861	Nolensville, Tennessee, United States
+          5840	Črnomelj, Slovenia
+          5816	Fumel, France
+          5797	Plaidt, Germany
+          5774	Cacaotepec, Oaxaca, Mexico
+          5749	Trendelburg, Germany
+          5730	Les Avanchets, Switzerland
+          5708	Marange-Silvange, France
+          5683	Teufen, Switzerland
+          5660	Wayne, Nebraska, United States
+          5639	Buckhannon, West Virginia, United States
+          5618	Marlow Heights, Maryland, United States
+          5599	Staraya Vichuga, Russia
+          5576	Qāzigund, India
+          5555	Uzundere, Turkey
+          5530	Monte San Vito, Italy
+          5513	Rohrbach, Germany
+          5491	Oodweyne, Somalia
+          5471	Macon, Missouri, United States
+          5445	Talisayan, Philippines
+          5423	Rostovka, Russia
+          5404	Galegos, Portugal
+          5385	Cadale, Somalia
+          5363	Wilton, California, United States
+          5339	Könnern, Germany
+          5315	Riedering, Germany
+          5295	Benejúzar, Spain
+          5276	Ibabang Tayuman, Philippines
+          5255	Gopināthpur, India
+          5236	Moral de Calatrava, Spain
+          5216	Terranova da Sibari, Italy
+          5200	Kibale, Uganda
+          5180	Houyu, China
+          5162	Utashinai, Japan
+          5145	Żołynia, Poland
+          5122	Morcone, Italy
+          5103	Ulsteinvik, Norway
+          5086	Yakakent, Turkey
+          5068	Simod, Philippines
+          5051	Vigone, Italy
+          5032	Tambo, Peru
+          5014	North Fond du Lac, Wisconsin, United States
+          5000	Mehmand Chak, Pakistan
+          4986	Reichertshausen, Germany
+          4967	West Elmira, New York, United States
+          4946	Mogoşeşti, Romania
+          4926	Canon, France
+          4911	Sandgate, Queensland, Australia
+          4892	Uchte, Germany
+          4875	Iscuandé, Colombia
+          4855	Limba-an, Philippines
+          4836	Sevnica, Slovenia
+          4816	Ploaghe, Italy
+          4798	Pîrgăreşti, Romania
+          4777	Folschviller, France
+          4761	Ayapa, Tabasco, Mexico
+          4742	Bual, Philippines
+          4723	Helbra, Germany
+          4707	Alaró, Spain
+          4689	Charo, Michoacán, Mexico
+          4673	Pisarzowice, Poland
+          4654	Pressath, Germany
+          4638	Whiteville, Tennessee, United States
+          4616	Sala Baganza, Italy
+          4600	Scheibbs, Austria
+          4583	Curtişoara, Romania
+          4565	Dois Riachos, Brazil
+          4549	Monzambano, Italy
+          4532	Dzan, Yucatán, Mexico
+          4514	Cordon, Philippines
+          4500	Ol'shanskoye, Ukraine
+          4481	Monteveglio, Italy
+          4465	Vries, Netherlands
+          4450	Trentwood, Washington, United States
+          4435	Dumbrăviţa, Romania
+          4420	Sebring, Ohio, United States
+          4404	Rădăşeni, Romania
+          4392	Liberty, New York, United States
+          4375	Secuieni, Romania
+          4358	Clarkson, New York, United States
+          4343	Hampden, Maine, United States
+          4328	Mednogorskiy, Russia
+          4312	Corgo, Spain
+          4294	La Roda de Andalucía, Spain
+          4278	Le Landeron, Switzerland
+          4264	Trenton, Tennessee, United States
+          4245	Rožmitál pod Třemšínem, Czech Republic
+          4231	Strehla, Germany
+          4216	Vierkirchen, Germany
+          4203	Castillo, Philippines
+          4190	Paraje Nuevo, Veracruz, Mexico
+          4177	Stonewall, Manitoba, Canada
+          4161	Del Mar, California, United States
+          4147	Hooksett, New Hampshire, United States
+          4133	Isle of Palms, South Carolina, United States
+          4117	Kresna, Bulgaria
+          4104	Gößnitz, Germany
+          4089	Bungsuan, Philippines
+          4075	Rockenberg, Germany
+          4061	Arlington, New York, United States
+          4047	Orlovo, Russia
+          4030	Armação de Pêra, Portugal
+          4016	Dosrius, Spain
+          4003	Wenduine, Belgium
+          3994	Paterno, Italy
+          3982	Gandara, Philippines
+          3968	Kildeer, Illinois, United States
+          3951	Cabaret, Haiti
+          3935	Kudryashovskiy, Russia
+          3921	Mozzanica, Italy
+          3905	Tibagon, Philippines
+          3891	Village Green, New York, United States
+          3876	Ravenswood, West Virginia, United States
+          3862	Lousame, Spain
+          3850	Grant-Valkaria, Florida, United States
+          3836	Parincea, Romania
+          3823	Lesmahagow, United Kingdom
+          3810	Fara Vicentino, Italy
+          3799	Falmouth, Massachusetts, United States
+          3785	Carter Lake, Iowa, United States
+          3773	Bogashevo, Russia
+          3761	Manerba del Garda, Italy
+          3749	Plyussa, Russia
+          3736	Tábara Arriba, Dominican Republic
+          3724	Tinoto, Philippines
+          3712	Miziya, Bulgaria
+          3700	Jugów, Poland
+          3688	Marktleugast, Germany
+          3675	Ruinen, Netherlands
+          3661	Mačvanska Mitrovica, Serbia
+          3647	Villaviciosa de Córdoba, Spain
+          3634	Speightstown, Barbados
+          3623	Limatola, Italy
+          3612	Scott Air Force Base, Illinois, United States
+          3600	El’ton, Russia
+          3588	Banī Khaddāsh, Tunisia
+          3576	Mission Hills, California, United States
+          3563	Shashūbay, Kazakhstan
+          3551	La Vale, Maryland, United States
+          3540	Konradsreuth, Germany
+          3529	Crîngeni, Romania
+          3512	Araguaiana, Brazil
+          3500	Corral, Chile
+          3488	Villa del Rosario, Argentina
+          3477	Saxon, Switzerland
+          3465	West End-Cobb Town, Alabama, United States
+          3453	Casnigo, Italy
+          3442	Soyaló, Chiapas, Mexico
+          3430	Mikepércs, Hungary
+          3419	Bulasa, Philippines
+          3406	Yārāda, India
+          3394	Eystrup, Germany
+          3380	Lengyeltóti, Hungary
+          3371	Highley, United Kingdom
+          3361	Gros Cailloux, Mauritius
+          3352	Kamyshevka Vtoraya, Ukraine
+          3339	Alcolea del Río, Spain
+          3328	India Hook, South Carolina, United States
+          3315	Annino, Russia
+          3305	Bassecourt, Switzerland
+          3293	Entlebuch, Switzerland
+          3284	Ellsworth, Wisconsin, United States
+          3273	Vejprty, Czech Republic
+          3261	Sturno, Italy
+          3249	Podsineye, Russia
+          3239	Elmswell, United Kingdom
+          3228	Montefano, Italy
+          3218	Rocbaron, France
+          3205	Khatanga, Russia
+          3193	Orellana la Vieja, Spain
+          3184	Three Lakes, Washington, United States
+          3174	Trafford, Pennsylvania, United States
+          3162	Dundee, Oregon, United States
+          3152	Josefina, Philippines
+          3141	Pannes, France
+          3132	Ambleside, United Kingdom
+          3123	Podgorodnyaya Pokrovka, Russia
+          3114	Szynwałd, Poland
+          3103	Zalakomár, Hungary
+          3096	Štěpánkovice, Czech Republic
+          3087	Ronco Briantino, Italy
+          3077	‘Ibwayn, Palestinian Territory
+          3069	Klingnau, Switzerland
+          3059	Jelling, Denmark
+          3051	Casasimarro, Spain
+          3041	Sinagra, Italy
+          3032	Lama Mocogno, Italy
+          3021	Soulac-sur-Mer, France
+          3013	Grandvilliers, France
+          3004	Krókos, Greece
+          2998	Zhiletovo, Russia
+          2988	Escheburg, Germany
+          2980	Myszyniec, Poland
+          2970	Dealu Morii, Romania
+          2960	Merlara, Italy
+          2951	Ocampo, Coahuila, Mexico
+          2941	Borovan, Bulgaria
+          2932	Feilitzsch, Germany
+          2922	Mauerstetten, Germany
+          2911	Nottwil, Switzerland
+          2901	Нераште, Macedonia
+          2894	Fichtenberg, Germany
+          2885	Benavides, Spain
+          2875	Cantalice, Italy
+          2862	Trmice, Czech Republic
+          2852	Pöhl, Germany
+          2843	Humilladero, Spain
+          2833	San Casimiro, Philippines
+          2824	Firsanovka, Russia
+          2815	Ganapi, Philippines
+          2805	Vålberg, Sweden
+          2796	Storvorde, Denmark
+          2787	Nagydorog, Hungary
+          2777	Fasnia, Spain
+          2767	Shakhta, Russia
+          2757	Buff Bay, Jamaica
+          2748	Thio, New Caledonia
+          2739	Mühleberg, Switzerland
+          2729	Valtimo, Finland
+          2719	Silvino Lobos, Philippines
+          2709	Vista Alegre, Philippines
+          2700	Kamień, Poland
+          2692	Torricella Sicura, Italy
+          2684	Campo, California, United States
+          2675	Lobstädt, Germany
+          2668	Mapulot, Philippines
+          2659	Pilsach, Germany
+          2650	Quart d’Onyar, Spain
+          2642	Glattbrugg, Switzerland
+          2633	Cordes Lakes, Arizona, United States
+          2624	San Manuel Chaparrón, Guatemala
+          2615	Lillo, Spain
+          2606	Welschbillig, Germany
+          2598	Krupski Młyn, Poland
+          2589	Brusly, Louisiana, United States
+          2581	Jübek, Germany
+          2571	Portiragnes, France
+          2561	Cérans-Foulletourte, France
+          2555	Poland, Ohio, United States
+          2546	Ugíjar, Spain
+          2537	Seiches-sur-le-Loir, France
+          2530	Toyós, Honduras
+          2523	Saint-Saturnin-lès-Apt, France
+          2513	Cessy, France
+          2506	Dăeni, Romania
+          2500	Damasławek, Poland
+          2493	Müllheim, Switzerland
+          2484	Carrollton, Illinois, United States
+          2476	Grenville, Grenada
+          2468	Montevecchia, Italy
+          2461	Macabuboni, Philippines
+          2452	Mešeišta, Macedonia
+          2444	Glen Rose, Texas, United States
+          2435	Vehmaa, Finland
+          2428	Cass City, Michigan, United States
+          2419	Benken, Switzerland
+          2410	Muta, Slovenia
+          2402	Muriwai Beach, New Zealand
+          2396	Tamparan, Philippines
+          2388	Nibbiano, Italy
+          2381	Biabas, Philippines
+          2373	Shenandoah, Virginia, United States
+          2365	Noyarey, France
+          2358	Saint-Vallier-de-Thiey, France
+          2351	Liberty City, Texas, United States
+          2344	Usk, United Kingdom
+          2337	Băbiciu, Romania
+          2331	Brownsville, Pennsylvania, United States
+          2324	Panadtaban, Philippines
+          2317	Miedziana Góra, Poland
+          2310	Bande, Spain
+          2304	Rising Sun, Indiana, United States
+          2296	Grafenhausen, Germany
+          2288	Arthur, Illinois, United States
+          2281	Walton Hills, Ohio, United States
+          2272	Santec, France
+          2265	Olenëk, Russia
+          2256	Victoria, Grenada
+          2250	Huttenheim, France
+          2243	Seidu, Sierra Leone
+          2235	Weddingstedt, Germany
+          2229	Valle Lomellina, Italy
+          2222	Cornas, France
+          2215	Silae, Philippines
+          2208	Hilgermissen, Germany
+          2201	Žagarė, Lithuania
+          2195	Maquinchao, Argentina
+          2190	Dohma, Germany
+          2184	Northorpe, United Kingdom
+          2176	Trowbridge Park, Michigan, United States
+          2170	Ware Shoals, South Carolina, United States
+          2162	Dolany, Czech Republic
+          2156	Ribbesbüttel, Germany
+          2149	Saint-Jean-Cap-Ferrat, France
+          2142	Weibersbrunn, Germany
+          2136	Witkowice, Poland
+          2130	Pescasseroli, Italy
+          2123	Peille, France
+          2117	Fritch, Texas, United States
+          2111	Victory Lakes, New Jersey, United States
+          2103	Opio, France
+          2098	Valle di Casies - Gsies, Italy
+          2092	Zaytā Jammā‘īn, Palestinian Territory
+          2085	Levier, France
+          2077	Plesná, Czech Republic
+          2070	Durazzano, Italy
+          2063	Kaszaper, Hungary
+          2056	Spay, Germany
+          2048	Rantsila, Finland
+          2041	San Pasqual, California, United States
+          2034	Valley View, Ohio, United States
+          2027	Verghereto, Italy
+          2021	Bethlehem Village, Connecticut, United States
+          2014	Dadonville, France
+          2007	Balvano, Italy
+          2000	Fedderwarden, Germany
+          2000	Fossambault-sur-lac, Quebec, Canada
+          1993	Fall City, Washington, United States
+          1986	Cantenay-Épinard, France
+          1979	Teglio Veneto, Italy
+          1972	Viry-Noureuil, France
+          1965	Szentkirály, Hungary
+          1959	Fords Prairie, Washington, United States
+          1952	Terpeziţa, Romania
+          1945	Monswiller, France
+          1939	Sagres, Portugal
+          1932	Unnau, Germany
+          1925	Mérindol, France
+          1917	Mogapi, Botswana
+          1910	Thomaston, Connecticut, United States
+          1904	Klecany, Czech Republic
+          1898	Blakstad, Norway
+          1891	Świnna, Poland
+          1885	Folsom, New Jersey, United States
+          1877	Stráž nad Nisou, Czech Republic
+          1871	Castelnau-Montratier, France
+          1864	Simnas, Lithuania
+          1857	Süpplingen, Germany
+          1852	Cooperstown, New York, United States
+          1844	Mărgău, Romania
+          1836	Sármellék, Hungary
+          1830	Saint-Georges-les-Bains, France
+          1825	Smoke Rise, Alabama, United States
+          1819	Decatur, Michigan, United States
+          1811	Noramarg, Armenia
+          1807	French Lick, Indiana, United States
+          1801	Goldsby, Oklahoma, United States
+          1796	Saucats, France
+          1789	Saint-Satur, France
+          1783	Próti, Greece
+          1777	Forsyth, Montana, United States
+          1770	Huangxikou, China
+          1764	Saint-Denis-de-Gastines, France
+          1758	Cana Chapetón, Dominican Republic
+          1752	La Murette, France
+          1745	Podlesnyy, Russia
+          1738	Arrap’i, Armenia
+          1733	Winchester, New Hampshire, United States
+          1726	Meedhoo, Maldives
+          1720	Altamont, New York, United States
+          1713	Charmey, Switzerland
+          1706	Nakusp, British Columbia, Canada
+          1700	Visano, Italy
+          1697	La Luz, New Mexico, United States
+          1690	Colotenango, Guatemala
+          1685	Maury, North Carolina, United States
+          1679	Saint-André-sur-Orne, France
+          1672	Vlachovo Březí, Czech Republic
+          1667	Mezzano, Italy
+          1660	Art-sur-Meurthe, France
+          1655	Weldon, North Carolina, United States
+          1649	San Benedetto Ullano, Italy
+          1643	Pradoluengo, Spain
+          1638	Samarai, Papua New Guinea
+          1632	Euerdorf, Germany
+          1627	Templepatrick, United Kingdom
+          1622	La Grulla, Texas, United States
+          1616	Rocca de' Baldi, Italy
+          1610	Maureilhan, France
+          1604	Saint-Valérien, France
+          1600	Nowosielce, Poland
+          1594	Spencerville, Maryland, United States
+          1587	Soleminis, Italy
+          1582	Renmark West, South Australia, Australia
+          1576	Heeßen, Germany
+          1571	Kostomłoty Pierwsze, Poland
+          1565	Novoye Leushino, Russia
+          1560	Belleair Beach, Florida, United States
+          1554	Mézeray, France
+          1549	Jarebice, Serbia
+          1543	San Giovanni in Croce, Italy
+          1538	Cambiasca, Italy
+          1533	Wilder, Idaho, United States
+          1526	Castillonnès, France
+          1521	Neaua, Romania
+          1515	Vrsi, Croatia
+          1509	Saint-Paul, France
+          1503	Stubenberg, Germany
+          1500	Chmielowice, Poland
+          1496	Gradoli, Italy
+          1491	Włosienica, Poland
+          1486	Stanfield, North Carolina, United States
+          1479	Norrent-Fontes, France
+          1475	Haverskerque, France
+          1471	Menard, Texas, United States
+          1466	Comazzo, Italy
+          1462	Black Lick, Pennsylvania, United States
+          1456	Weyerbusch, Germany
+          1451	Warcq, France
+          1446	Borgstedt, Germany
+          1441	Hindisheim, France
+          1436	Vaitogi, American Samoa
+          1432	Lututów, Poland
+          1427	Rivarossa, Italy
+          1421	Trévou-Tréguignec, France
+          1416	Potęgowo, Poland
+          1411	Mansigné, France
+          1407	Zárkos, Greece
+          1402	Martirano Lombardo, Italy
+          1399	Üxheim, Germany
+          1395	Faxon, Pennsylvania, United States
+          1390	Jieznas, Lithuania
+          1385	Olla, Louisiana, United States
+          1379	Pieve Torina, Italy
+          1374	Banatski Dvor, Serbia
+          1369	Vălişoara, Romania
+          1364	Sarahart’, Armenia
+          1359	Erre, France
+          1353	Méounes-lès-Montrieux, France
+          1349	Siedenburg, Germany
+          1344	Saint-Jean-les-Deux-Jumeaux, France
+          1339	Nidek, Poland
+          1333	Helgoland, Germany
+          1328	Sainte-Solange, France
+          1324	Anhausen, Germany
+          1319	Madzharovo, Bulgaria
+          1315	Perroy, Switzerland
+          1310	Suomusjärvi, Finland
+          1306	San Diego, Honduras
+          1302	Fentange, Luxembourg
+          1300	Teribërka, Russia
+          1296	Garelochhead, United Kingdom
+          1292	Wells, Nevada, United States
+          1287	Manton, Michigan, United States
+          1283	Orlamünde, Germany
+          1278	Nezamyslice, Czech Republic
+          1274	Portobelo, Panama
+          1270	Del Rio, California, United States
+          1265	Avondale, Pennsylvania, United States
+          1261	Hackberry, Louisiana, United States
+          1256	Rheden, Germany
+          1252	Agulo, Spain
+          1248	Montieri, Italy
+          1243	Bergsjö, Sweden
+          1238	Saint-Just-d'Ardèche, France
+          1234	Ilbesheim, Germany
+          1230	Brzączowice, Poland
+          1225	Bonstetten, Germany
+          1221	Searsmont, Maine, United States
+          1216	Häggenschwil, Switzerland
+          1212	Stewartby, United Kingdom
+          1208	Pigeon, Michigan, United States
+          1204	Sorico, Italy
+          1200	Niederlangen, Germany
+          1199	Kriebitzsch, Germany
+          1195	Bass Lake, Indiana, United States
+          1190	Broglie, France
+          1187	Newellton, Louisiana, United States
+          1182	Axstedt, Germany
+          1178	Polepy, Czech Republic
+          1175	West Kittanning, Pennsylvania, United States
+          1171	Moutfort, Luxembourg
+          1167	Geisleden, Germany
+          1163	Launac, France
+          1159	Saint-Georges-Haute-Ville, France
+          1155	Silly-le-Long, France
+          1151	Royalton, Illinois, United States
+          1147	Quintanilla de Onésimo, Spain
+          1144	Felm, Germany
+          1140	Sitovo, Bulgaria
+          1137	Lompico, California, United States
+          1133	Nassau, New York, United States
+          1129	Férolles-Attilly, France
+          1126	Big Rock, Illinois, United States
+          1122	Jawornik Polski, Poland
+          1118	Tivoli, New York, United States
+          1114	Jagiełła, Poland
+          1110	Alserio, Italy
+          1107	Lannon, Wisconsin, United States
+          1103	Lipie, Poland
+          1100	Łubnice, Poland
+          1097	Osek nad Bečvou, Czech Republic
+          1094	Kleinandelfingen, Switzerland
+          1090	Narganá, Panama
+          1087	Pleasant Hill, North Carolina, United States
+          1082	Sourzac, France
+          1079	Melicuccà, Italy
+          1075	Rawannawi Village, Kiribati
+          1071	Goshen, Arkansas, United States
+          1067	Saint-Jean-sur-Veyle, France
+          1063	Keldonk, Netherlands
+          1060	McKinley Heights, Ohio, United States
+          1056	Paullina, Iowa, United States
+          1052	Skottsund, Sweden
+          1049	McCullom Lake, Illinois, United States
+          1045	Daru Rilwan, The Gambia
+          1042	Golmbach, Germany
+          1039	Veliki Gaj, Serbia
+          1035	Mixdorf, Germany
+          1032	Beuna, Germany
+          1029	Allison, Iowa, United States
+          1025	Fontaine-le-Dun, France
+          1022	Parker, South Dakota, United States
+          1018	Sainte-Geneviève-sur-Argence, France
+          1015	Fortschwihr, France
+          1012	Tamahú, Guatemala
+          1009	Barre, Massachusetts, United States
+          1005	Villamaina, Italy
+          1002	Mykanów, Poland
+           992	Linsburg, Germany
+           962	Pronsfeld, Germany
+           938	Kuchelmiß, Germany
+           912	Winnigstedt, Germany
+           888	Sterling City, Texas, United States
+           863	Durchhausen, Germany
+           839	Council, Idaho, United States
+           815	Groß Teetzleben, Germany
+           792	Konken, Germany
+           770	Przelewice, Poland
+           747	Rokitno, Poland
+           723	Kampinos, Poland
+           699	Niederburg, Germany
+           680	Vorderweidenthal, Germany
+           658	Becheln, Germany
+           637	Barsbek, Germany
+           620	Eimsheim, Germany
+           600	Wiesbaum, Germany
+           579	Wahlheim, Germany
+           559	Gehlert, Germany
+           538	Georgetown, Saint Helena
+           520	Lovingston, Virginia, United States
+           501	Hefersweiler, Germany
+           481	Kabelhorst, Germany
+           462	Högel, Germany
+           443	Mallin, Germany
+           424	Holstenniendorf, Germany
+           403	Attenhausen, Germany
+           382	Serniki, Poland
+           363	Channing, Texas, United States
+           347	Höhndorf, Germany
+           328	Schwall, Germany
+           308	Bruschied, Germany
+           290	Seekirch, Germany
+           270	Fiersbach, Germany
+           255	Hochscheid, Germany
+           238	Andenhausen, Germany
+           216	Brockscheid, Germany
+           197	Loop, Germany
+           178	Thörnich, Germany
+           161	Drogen, Germany
+           141	Ahlstädt, Germany
+           111	Voigtsdorf, Germany
+            83	Halsdorf, Germany
+            46	Elisabeth-Sophien-Koog, Germany
